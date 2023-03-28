@@ -9,6 +9,16 @@ body {
   font-size: 1rem;
   color: #444444;
 }
+/* @media  screen and (min-width:400px) and (max-width:600px) {
+  body{
+    background-color: #1D4ED8;
+  }
+} */
+/* @media  screen and (orientation:landscape) {
+  body{
+    background-color: #1D4ED8;
+  }
+}  */
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif;
